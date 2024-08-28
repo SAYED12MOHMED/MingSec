@@ -1,3 +1,4 @@
+Hacking programs 
 # MingSec
 
 MingSec is a basic home security system that takes advantage of OpenCV for motion detection. 
