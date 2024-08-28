@@ -1,5 +1,5 @@
-Hacking programs 
-# MingSec
+Hacker application 
+
 
 MingSec is a basic home security system that takes advantage of OpenCV for motion detection. 
 An image is captured every ten minutes and uploaded to Dropbox. 
